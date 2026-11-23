@@ -71,10 +71,16 @@ install.packages(c("Rcpp", "RcppArmadillo", "noisySBM", "ggplot2", "digest"))
 ```
 
 Use noisySBM 0.1.4 for historical-fit replication (for example with
-`remotes::install_version("noisySBM", version="0.1.4")`). Only the necessary
-Greedy R/Rcpp backend is vendored under `simulation/Greedy/`; its GPL-2 license
-and author attribution are preserved. No GGM preprocessing dependencies are
-required. VB alone needs only Rcpp, RcppArmadillo and a C++17 toolchain.
+`remotes::install_version("noisySBM", version="0.1.4")`). VB alone needs only
+Rcpp, RcppArmadillo and a C++17 toolchain; no GGM preprocessing dependencies
+are required.
+
+Third-party components: the unchanged NSBM backend from noisysbmGGM 0.1.2.3
+by Valentin Kilian and Fanny Villers is included in `simulation/Greedy/`,
+with its copyright notices and [GPL-2 license](simulation/Greedy/LICENSE)
+retained. VEM uses the external noisySBM package. SC is the existing local
+Sun-Cai-style implementation, not an identical upstream release. These
+comparators are separate from the standalone VB method.
 
 Confirmed cluster environment: R 4.4.2, module `R/4.4.2-gfbf-2024a`, Slurm,
 one CPU per task, OPENBLAS_NUM_THREADS=OMP_NUM_THREADS=MKL_NUM_THREADS=

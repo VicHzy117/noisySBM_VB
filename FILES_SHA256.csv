@@ -69,7 +69,7 @@
 "method/VB/src/nsbm_vi.cpp",28003,"abafaa2c87754ef8d1ae446cc7a0d82f0cd2305f4cff8984ab4daab019d32a1a"
 "method/VB/src/spectral_initialization.cpp",20398,"0943e55a086d8cd5684ae0b58cb94b8834493acf5346081a9325798a85007e2d"
 "method/VB/src/variational_blocks.h",10389,"744bf91facc7f49e7d0385bc74dc92697cc49999d9f1f56a291bab13c8b0c921"
-"README.md",9840,"ae37e022ee5a0eecbbaf6b9511838730504c7170b9b0441ab8cdbbcd2ba63b1a"
+"README.md",10130,"ff40cb0d45a8c33341ecc5aa969423c2b20aa85946074db313d55436cc96d9c2"
 "results/code/graph_figures.R",3878,"afc0a9609a3ca520c414ea08b3d91a2aa4ec68c82935410a186c566fba4b8c5e"
 "results/code/reproduce.R",5469,"297dfc7122f7af9b4a5f244f9c045e8aa0cad1d38745422b99adb421c00ac871"
 "results/code/time_figures.R",2844,"e7f2a5372aa7bab4483971e6d825b16fb9e9dbfbbc0070eef7f16dd18153272c"
@@ -134,4 +134,3 @@
 "tests/standalone_vb.R",873,"c507e8779f08c228d37ca4714a0d89e2c6b43660067fb28de24ece078e19d151"
 "tests/validate.R",3353,"af5facb8a85136feb21abcf0124de22e2678f71506b2d5bd880fb2e25c0eedfd"
 "tests/validation_results.csv",282,"10957b07ad81b16c963d8279b3ab60c0d3243488f4c530108fda442142015ae5"
-"THIRD_PARTY_NOTICES.md",914,"406f8c2ee7227a034757fffdf2d47730bcb8ff18e7cf70645e6723be231f06d7"
