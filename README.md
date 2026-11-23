@@ -34,7 +34,7 @@ strong-contrast data (means 2/1), not the superseded 0.65/0.25 connectivity.
 - **Greedy:** noisysbmGGM 0.1.2.3 NSBM component, NIG and native merge.
 - **SC:** the original local Sun-Cai-style known-null implementation, unchanged.
 
-Candidate K is 1:3 for S1/S2/S7/S8 and 1:4 otherwise, identically bounded for
+Candidate K is 1:4, identically bounded for
 all three models. VEM uses nbOfTau=2, requested nbOfPointsPerTau=2 (Gauss01
 internally sets this to 1), maxNbOfPasses=2, minNbOfPasses=1, one core.
 Greedy uses nbOfZ=12, Nbrepet=5, sigma0=1, one core, NIG, native merge.
