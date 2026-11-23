@@ -198,7 +198,4 @@ machinery are needed to use this directory.
 
 The delivered checks passed in a fresh local R session: all four methods'
 TP/FP matched the retained paper inputs at all five levels for the tested
-replicate. `tests/validation_results.csv` records the checks. Verify copied
-files with `Rscript tests/check_integrity.R`. Intentional regeneration changes
-derived file bytes; renew the manifest with `--write` only after validating
-those changes.
+replicate. `tests/validation_results.csv` records the checks.
