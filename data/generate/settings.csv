@@ -1,0 +1,15 @@
+"setting","number","title","family","K_true","K_max","proportions","Q","mu","signal_variance","null_mean","null_variance","root_fraction","root_density","attachment_fraction"
+"S1",1,"two community, strong connectivity, strong signal","two_community",2,3,"0.5,0.5","0.8,0.1;0.1,0.8","2,2;2,2",1,0,1,NA,NA,NA
+"S2",2,"two community, strong connectivity, weak signal","two_community",2,3,"0.5,0.5","0.8,0.1;0.1,0.8","1,1;1,1",1,0,1,NA,NA,NA
+"S3",3,"near-duplicate communities, weak signal","near_duplicate",3,4,"0.333333333333333,0.333333333333333,0.333333333333333","0.75,0.12,0.12;0.12,0.58,0.57;0.12,0.57,0.58","1,1,1;1,1.5,1;1,1,0.5",1,0,1,NA,NA,NA
+"S4",4,"bipartite, strong connectivity, weak signal","bipartite",2,4,"0.5,0.5","0,0.65;0.65,0","1,1;1,1",1,0,1,NA,NA,NA
+"S5",5,"star, weak signal","star",NA,4,NA,NA,"1",1,0,1,NA,NA,NA
+"S6",6,"preferential attachment, weak signal","pa",NA,4,NA,NA,"1",1,0,1,0.2,0.5,0.75
+"S7",7,"two community, weak connectivity, strong signal","two_community",2,3,"0.5,0.5","0.55,0.35;0.35,0.55","2,2;2,2",1,0,1,NA,NA,NA
+"S8",8,"two community, weak connectivity, weak signal","two_community",2,3,"0.5,0.5","0.55,0.35;0.35,0.55","1,1;1,1",1,0,1,NA,NA,NA
+"S9",9,"near-duplicate communities, strong signal","near_duplicate",3,4,"0.333333333333333,0.333333333333333,0.333333333333333","0.75,0.12,0.12;0.12,0.58,0.57;0.12,0.57,0.58","2,2,2;2,3,1;2,1,0.5",1,0,1,NA,NA,NA
+"S10",10,"bipartite, strong connectivity, strong signal","bipartite",2,4,"0.5,0.5","0,0.65;0.65,0","2,2;2,2",1,0,1,NA,NA,NA
+"S11",11,"bipartite, weak connectivity, strong signal","bipartite",2,4,"0.5,0.5","0,0.25;0.25,0","2,2;2,2",1,0,1,NA,NA,NA
+"S12",12,"bipartite, weak connectivity, weak signal","bipartite",2,4,"0.5,0.5","0,0.25;0.25,0","1,1;1,1",1,0,1,NA,NA,NA
+"S13",13,"star, strong signal","star",NA,4,NA,NA,"2",1,0,1,NA,NA,NA
+"S14",14,"preferential attachment, strong signal","pa",NA,4,NA,NA,"2",1,0,1,0.2,0.5,0.75

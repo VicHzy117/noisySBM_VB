@@ -1,0 +1,8 @@
+"check","passed","max_abs_error"
+"standalone_VB",TRUE,0
+"confirmed_seeds_56_cells",TRUE,1.77635683940025e-15
+"method_metrics_VB",TRUE,0
+"method_metrics_VEM",TRUE,0
+"method_metrics_Greedy",TRUE,0
+"method_metrics_SC",TRUE,0
+"results_only_figures_and_tables",TRUE,5.55111512312578e-16

@@ -1,0 +1,11 @@
+.DS_Store
+.Rhistory
+.RData
+*.o
+*.so
+*.dll
+*.dylib
+.cache/
+results/data/reruns/
+results/data/new_summary/
+tests/local_session.txt

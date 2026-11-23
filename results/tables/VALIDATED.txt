@@ -1,0 +1,5 @@
+PASS: 112000 metric rows; 22400 fit rows; 100 replicates/cell.
+All FDR/TDR points, mean ARIs and timing medians match current paper references to 1e-12.
+Figure 2: TDR_FDR_main_six_settings.pdf; supplement curves: S07-S14_TDR_FDR.png.
+Figure 3: page 1 of fitting_time_s1_s14.pdf; supplement time: pages 2-14.
+All calculations and plotting used R; no fits or raw datasets were needed.
